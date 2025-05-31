@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/computer_vision/segmentation_task_28_05_2025/dataset/train
+val: /content/drive/MyDrive/computer_vision/segmentation_task_28_05_2025/dataset/val
+
+nc: 1
+names: ['box']
